@@ -29,8 +29,8 @@ p {
 .myColor {
     height: 10%;
     width: 40%;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
     margin: 1em;
-    -webkit-filter: invert(100%);
-    filter: invert(100%);
     box-shadow: 10px 10px 5px grey;
 }
