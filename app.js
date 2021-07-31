@@ -1,5 +1,5 @@
 const myColors = document.querySelector(".myColors")
-let colorCount = 10;
+let colorCount = 100;
 
 
 function displayColors(colors) {
